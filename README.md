@@ -25,3 +25,14 @@ a repository created for git and git hub workshop
 |4|rosa 'charles austin'| Strong|Apricot|Tall|£15.95|
 
 ![rose](https://images-na.ssl-images-amazon.com/images/I/71Gvx4iVmPL.jpg)
+
+### ordered list
+1. good morning
+2. good afternoon
+3. good evening
+
+### unordered list
+- bonjour
+- bonsoir
+- bonnuit
+
