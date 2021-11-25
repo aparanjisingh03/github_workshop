@@ -17,3 +17,5 @@ a repository created for git and git hub workshop
 |----|-----|---------|
 |1|golden clebration|Strong, Tea|
 |2|rosa 'constance spry'|Strong, Myrrh|
+
+! [rose] (https://images-na.ssl-images-amazon.com/images/I/71Gvx4iVmPL.jpg)
