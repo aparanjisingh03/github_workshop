@@ -43,4 +43,9 @@ a repository created for git and git hub workshop
    3. Ausmas
    4. Princess Alexandra of Kent
 
-  
+  ``` python
+      a="roses"
+      b="from"
+      c="europe"
+      print(a,b,c)
+  '''  
