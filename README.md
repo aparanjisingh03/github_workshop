@@ -45,8 +45,8 @@ a repository created for git and git hub workshop
 
 ### python
 ``` python
-    a="roses"
-    b="from"
-    c="europe"
+    a=10
+    b=20
+    c=30
     print(a,b,c)
 '''  
