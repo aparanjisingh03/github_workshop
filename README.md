@@ -44,9 +44,9 @@ a repository created for git and git hub workshop
    4. Princess Alexandra of Kent
 
 ### python
-  ``` python
+``` python
       a="roses"
       b="from"
       c="europe"
       print(a,b,c)
-  '''  
+ '''  
